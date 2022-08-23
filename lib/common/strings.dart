@@ -10,7 +10,7 @@ const String tryAgainMessage = 'Please try again.';
 const String yourWordText = 'Your word';
 const String meaningText = 'Meaning';
 const String exampleText = 'Example';
-const String appbarTitleText = 'PingoLearn-Round 1';
+const String appbarTitleText = 'Dictionary';
 const String pressButtonText = 'Press the button to start speaking';
 const String speechNotAvailableText = 'Speech not available';
 
